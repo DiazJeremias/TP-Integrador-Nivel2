@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace presentacion.Properties
+namespace presentacion_.Properties
 {
 
 
